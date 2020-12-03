@@ -1,0 +1,16 @@
+{
+    "name": "tuoadama/projets",
+    "authors": [
+        {
+            "name": "Tuo Adama",
+            "email": "tuoadama17@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "App\\": "app/",
+            "Controllers\\": "controllers/"
+        }
+    },
+    "require": {}
+}
